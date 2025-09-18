@@ -1,6 +1,13 @@
-## Hi there 👋 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyrus-Hao)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrus-Hao&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+## Hi 👋 
+- I’m a **`second-year`** undergraduate student studying at **`SYNU`** ☺️
+- I love exploring **`computer graphics and 3D vision`** 🥰
+- Feel free to reach out to me for discussions and learning 🤝
+  
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Cyrus-Hao" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrus-Hao&layout=donut" />
+</p>
+
 ![](https://raw.githubusercontent.com/Cyrus-Hao/Cyrus-Hao/refs/heads/output/github-contribution-grid-snake.svg)
 <!--
 **Cyrus-Hao/Cyrus-Hao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
